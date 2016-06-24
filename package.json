@@ -1,0 +1,20 @@
+{
+  "name": "hellonode-tutorial",
+  "version": "0.0.1",
+  "description": "Hello Node tutorial",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:JasonH1/hellonode.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "git@github.com:JasonH1/hellonode/issues"
+  },
+  "dependencies": {
+    "express": "^4.11.2"
+  },
+  "devDependencies": {
+  }
+}
